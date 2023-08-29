@@ -1,9 +1,7 @@
 footer{
-    height: 130px;
+    height: 150px;
     padding: 50px;
-    background-color: var(--navbar-footer-color);
-    margin-top: 85vh;
-    
+    background-color: var(--navbar-footer-color);    
 }
 
 .site-logo{
